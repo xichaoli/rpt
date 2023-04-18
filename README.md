@@ -1,0 +1,2 @@
+# rpt
+Rust package template.
